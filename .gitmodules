@@ -1,3 +1,6 @@
 [submodule "selection_sort/pure-cpp-implementation"]
 	path = selection_sort/pure-cpp-implementation
 	url = https://github.com/mehrawbmh/selection-sort-circuit-cpp.git
+[submodule "selection_sort/systemC-implementation"]
+	path = selection_sort/systemC-implementation
+	url = https://github.com/mehrawbmh/selection-sort-circuit-systemc.git
